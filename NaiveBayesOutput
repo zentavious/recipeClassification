@@ -1,6 +1,6 @@
 read data
 created classifier
-Accuracy: 0 //for some reason it cannot predict correctly vs the test data set, eventhough the informative features make a lot of sense in predicting
+Accuracy: 0 //This will change after it is run again
 Most Informative Features
                                          present : not present in chinese food
     contains(sesame_oil) = True                1 : 0      =    143.7 : 1.0
