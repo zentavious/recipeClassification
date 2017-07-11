@@ -1,0 +1,1001 @@
+Recipe,chinese,dark_soy,peanut_oil,bean_sprout,ginger_root,skim_milk,curd,light_soy,nutmeg,msg,salt,onion,butter,sugar,soy_sauce,ginger,rice,oil,mushrooms,garlic,tofu,Category
+hearty russian beet soup,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0
+italian minestrone soup coca-cola,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+chinese pepper steak coca-cola,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,1,0,1
+german sauerbraten coca-cola,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0
+hungarian goulash coca-cola,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+japanese pickled cauliflower coca-cola,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+scottish oaten bread coca-cola,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+brazilian iced chocolate coca-cola,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+sunny cocoa drop cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+mahalia jacksons okra gumbo,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,1,0,0
+banana fudge cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pureed dates,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+lemmon poppy seed tart,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+chewy chocolate-orange bars,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+four-spice cake,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0
+anise meringue kisses,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+baked apple zapata,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+orange juice fizz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+yogurt-topped strawberry pancakes,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+almond ricotta custard,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+chewy coconut squares,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+chocolate mousse flan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+danish apple cake,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0
+no bake special k candies,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+pear bread pudding,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+raspberry tart,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+tollhouse squares,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+quick mix,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+cornmeal mix,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+oatmeal mix,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+wheat mix,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+ready hamburger mix,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+meatball mix,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+italian cooking sauce mix,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0
+chicken mix,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+garden vegetable mix,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+basic cake mix,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+basic cookie mix,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+brownie mix,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+cookie crumb crust mix,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+moist pie crust mix,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+orange float mix,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+freddis fruit cocktail mix,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+dill-lemon rice mix,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+mexican rice mix,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+caesar salad dressing mix,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+sweet salad dressing mix,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+low calorie dressing mix,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+seafood coating mix,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+spaghetti seasoning mix,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0
+taco seasoning mix,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+sesame-cheese dip mix,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+vegetable dip mix,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+tofu quiche,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0
+curried lentils vegetables,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0
+rice beans cheese,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+cheesy pepper mushroom pizza,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0
+corn timbales,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+creamy egg vegetable bake,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+baked eggs florentine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+stuffed acorn squash,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+nora mill grits white or yellow,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+nora mill whole wheat biscuits,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+nora mill whole wheat pancakes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+nora mill buttermilk corn bread,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chapatis roti,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+chana dhal or dal,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+sadiqs rice pudding,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+beef casserole edam,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0
+beef wellington gourmet mag,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+blackberry cobbler,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+buttermilk sherbet,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+cheese tomato souffles,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+chili our way,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+coconut angel food cake,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+coffee coffeecake espresso glaze,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cold glazed salmon,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+dark chocolate sauce,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+fettuccine scallops peas,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+gateau de mousse a la nectarine,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gourmets chicken divan,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+gourmets clarified butter,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+gourmets lobster newburg,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+granny smith apple pie,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ham mousse in sherry aspic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hot onion squares,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+james beards lamb shanks beans,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,0
+lemon caramel custard,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+lindys cheesecake,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mahogany duck,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+oysters rockefeller  gourmet mag,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+pasta tomatoes white beans pepperoni,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+pickled shrimp,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+red  black raspberry pudding cake,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+saffron butter sauce,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+scallop green bean terrine,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+soupe a loignon au fromage french onion soup,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+tarte au citron,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+veal birds paprika,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0
+wild rice amandine en casserole,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+better than sex cake,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+red-cooked eggs,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+german pancake,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+classic barbecued spareribs,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1
+"""be mine"" lollipops",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"""foolproof"" sourdough starter",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"""grilled"" glazed tuna steaks",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0
+"""land of nod"" cinnamon buns",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+"""trash bag"" taco salad",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+baklava  lebanese,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+vegetable raisin curry couscous,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+fruit salad,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+meurbeteig dough,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+cake by james beard chef  cooking t,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+cheesy turkey casserole,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0
+fuss-free cassoulet,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0
+pastitsio goes light,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,1,0,1,0,0
+vegetable bean casserole,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+appetizer sandwiches,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+percent whole-wheat bread,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+crunch bread,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+crunch bread,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+parmesan chicken breasts,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+whole wheat bread abm,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+whole wheat bread for bread machine,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+island dressing fanny farmer cookbook,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+garlic chicken,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+#NAME?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+grain bread abm,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+carat gold cake,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+sweet pickles,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+low fat alfredo sauce,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ minute  chicken  a  la  king,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+min lemon cheesecake,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+year old oatmeal,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+stew,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+soda bread,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+winning recipe chili,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0
+world champ butterfield stageline chili,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+world championship butterfield stageline,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+winner almond thumbprint cookies,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+winner chocolate covered cherry cookies,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+"winner impatient persons ""im hungry""",0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+winner rolled animal cookies,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+place fay kuhns thumbprints,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+place gloria heeters best gingerbr,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0
+place great-grandmas gingerbread c,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+honorable mention butter cookies youd,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+honorable mention jelly christmas eyes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ics world championship bowl of red a,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+place moms sugar cookies,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+ics world championship bowl of red b,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+place omas almond cookies,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+ics world championship bowl of red c,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0
+place pecan tassies,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+ics world championship bowl of red d,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+place mozart cookies,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+place springerle,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0
+place surprise packages,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+place swedish spice cookies,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+place christmas rocks,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0,0
+place joans little joys,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+place winner shortbread cookies,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+honorable mention caramel oat bars,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+punch,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+cheese ball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fudge,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+potato salad,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+hour dip,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+hour fruit salad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hour slaw,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+lettuce salad,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+velveeta cheese fudge,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+#NAME?,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0
+#NAME?,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0
+#NAME?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+tofu marinades pressing tofu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+salad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+whole wheat bread,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+cheesecake recipe,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+beef fajitas,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+herbed pork cutlets,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+peach port saut,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+tuna burgers,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+vegetable penne,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+ meat pie,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+hour beef stew,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+#NAME?,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+#NAME?,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+#NAME?,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+#NAME?,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+diabetic fudge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+chocolate covered marshmallow eggs,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+saganaki greek flaming cheese,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+christmas bread,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+bean soup,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+casserole,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+frozen chocolate bananas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cajun chicken wings,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+carnitas di amigos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0
+chevy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pastichio  greek  lasagna,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+snickers  bar  pie,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+layer toffee torte,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+billerica haystacks,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+moussake  greek,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+maureens beef curry,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+nosebags,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ layer  cookies,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+grain rice  vegetable salad,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+grain oatmeal cake,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+grain vegetable soup,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0
+layer casserole,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+minute boiled crawfish,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+up bundt cake,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+bread machine,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+angel food cake,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dessert,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+pound cake,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+salad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ minute  cheesecake,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+#NAME?,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+minute fresh fruit pie,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+minute cinnamon buns,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+style chicken salad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+flour tortillas,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tortilla torte,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+a  dieters  dream  shrimp  salad,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,1,0,0
+a  most  excellent  gnocchi,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0
+a  plus  brownies,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+a  quick  dessert,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+a  real  easy  cookie,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+a  whole  egg  substitute,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"a ""what to do all those zucchini"" bread",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+a maple candy,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+a chicken parmesan,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+a  meat pie,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+a barrel of muffins short order,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0
+a better pot roast,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+a bloomin onion sauce  dip,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+a bowl of red,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+a buche de noel   --   french yule log cake,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a cauldron of beans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+a croque monsieur salad,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+a different rice salad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,1,0,0
+a different steak au poivre,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+a fancy curry powder,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+a garden of spring tulips cake,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+a happy home recipe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a jellie of fyshe,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
+a little something extry,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+a masterpiece cheesecake,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"a norwegian coffee cake  ""kringlas""",0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+a shortcut to soap making,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a simple posset tlc,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+a tasty turkey loaf,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+a to z of spices part,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a trio of pizzas abm,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+a very tasty chili recipe,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+caribou steak,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+a-maize-ing chowder,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+acs potato rolls,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+ajfoyts chili,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+aaktay,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+aaparagus bacon,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+aaronson corn muffins,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+abalone meuniere mandarin,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,1
+abalone salad,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,0,0,0
+abba zabba,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+aberffraw cakeswelsh,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+abidjan cabbage salad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+abilene tx annual chili super bowl,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0
+abm beignets,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0
+abm foolproof maple oat bread for the,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+abm foolproof white bread for the,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+abm mustard wheat rye,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+abm whole wheat bread,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+abobong manok chicken adobo,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0
+about bagels -- general directions a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+about bagels -- general directions a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+about bagels -- general directions a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+about bagels -- general directions a,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+about bagels -- general directions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+about freezing blueberries,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+about miso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+about quick breads,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+about yeast breads baking tips,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+absolute stress,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+absolutely apricot,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+absolutely deep dark chocolate fudge cookies,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+academie de cuisine tenderloin of beef,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+acadian eight bean chili      annie rosenswei,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+acapulco chicken,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,1,0,0
+acapulco chicken enchilada,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+acapulco sunrise,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+acceptable emergency substitutions,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,1,0,0,0,0,0
+accra saltfish cakes,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0
+aceite o manteca de achiote annato oil or la,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+aceitunas rellenas stuffed olives,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+achara zuke turnips in vinegar dressing,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0
+achiote marinade  barbecue sauce for beef,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+ackee codfish,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+acorn  squash,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+acorn bread,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+acorn squash  apple soup,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
+acorn squash  wild rice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+acorn squash  wild rice plhol,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0
+acorn squash bake,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+acorn squash in roasted apples,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0
+acorn squash rings,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+acorn squash rings cranberries  apples,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+acorn squash soup,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+acorn squash stuffed apple couscous,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+acorn squash cranberry stuffing,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+acorn squash pine nuts,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0
+acorns,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+acquasale sweet pepper sauce,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+acrats de morue catfish fritters,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,1,0,0
+ada french sponge cookies,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+adai,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0
+adams  favorite  dessert   kolacky,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+adapted pickle juice rye,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+add rotel to your favorite recipes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+adobe mexican smoked chili marinade,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+adobo mexican smoked chile marinade,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+adobo smoked chile marinade,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+adobo kang kong,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0
+adobo sauce,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0
+adobong isda fish in tangy sauce,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+adobong pusit,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+adolf freys pike quenelles,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+adriatic spaghetti spaghetti delladriatico,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+aduki  squash soup,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+advent cookies,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+advocaat torte,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+adzuki bean stew,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0,0
+aebleskiver,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+aebleskiver no apples,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+aegean sea chowder psarosoupa kakavia,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0
+aelplermagronen the alpine farmers macaroni,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0
+aepfelkratzet apple scramble,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+affitinity  cake,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+afghani lamb spinach,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,1,0,0
+african green pepper  spinach,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0
+african ribs peanut sauce,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+african spinach  peanut butter stew,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0
+african squash  yams futari,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+african style vegetables in coconut milk,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+african vegetable stew,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0
+after dinner mint cookies,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+after-school  mix,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+afternoon tea cakes,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+aftershaves,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+aggies irish soda bread,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+agineres me avgolemono artichokes egg,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+agliata per pasta garlic  walnut sauce for,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+agnolotti alla fraccaro crab ravioli,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+agnolotti ignudi al mascarpone meat balls in,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+ahhh-some apple muffins,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+ahmad rashads banana pancakes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+aiken county corn bread dressing,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+aimees chili,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+aioli platter,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+aioli sauce garlic mayonaise,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+air or meringue cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+airy white bread,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+ajad fresh cucumber pickle,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0
+ajam panggang indonesian barbecued chicken,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0
+aji de gallina piquant creamed chicken- peru,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+ajiaco del restaurant garcia,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+ajilimojili garlic  pepper sauce,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+ajvar,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+aka miso summer miso soup,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+akkra bean fritters,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+akpith corn/maize  bean flour snack,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+al rice blacken blend,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+als chicken schnitzel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+als german pilsner,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+als seafood bisque from als soup kitchen,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+ala badun,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+alabama corn sticks,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+alabama-style shrimp bake,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0
+alamo chili,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+alaska cod strips to dip,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+alaska matelote,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,0
+alaska omelette,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+alaska patties,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+alaska salmon a la rainier,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0
+alaska salmon salad sandwich,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+alaska seafood tarts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+alaska sourest dough,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+alaska vol-au-vents,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+alaskan sourdough fruitcake,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+albacore or yellowfin tuna,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+albanian burger steaks,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+albondigas,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+albondigas en salsa chipotle [meatballs in ch,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+albondigas soup,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0
+albuquerque corn soup,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+ale bread,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+aleecha mixed vegetable stew,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+alehouse brisket,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+alexander espresso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+alfie  archies dog biscuits,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+alfie  archies dog biscuits,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+alfie  archies garlic treats,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+alfredo sauce,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+alfredo sauce  lowfat,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+alfredo sauce ovo lacto,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+alfredo sauce over fettuccine ff,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+alfredo-style sauce,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+alfredos  barbecue fish  marinade,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0
+algerian cooked carrot salad kitchen safari,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+alheiras de mirandela,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+alices  butter  frosting,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+alicha,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,0
+all american dessert,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+all at once spaghetti,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+all canadian coffee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+all day chicken,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0
+all purpose barbecue sauce,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0
+all purpose herb blend,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+all purpose marinade recipelu,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0
+all purpose seasoning,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+all south barbeque rub,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+all-american apple pie,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+all-american chili dog,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+all-american chocolate chip cookies,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+all-american egg rolls,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+all-american meatloaf,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+all-american salmon saute w/mushroom sauce,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0
+all-american succotash,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+all-apple or apple raspberry jelly,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+all-beef texas chili,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,0
+all-bran seed loaf,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+all-day beans,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+all-in-one salad bowl,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0
+all-purpose chili sauce,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0
+all-purpose salad dressing,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+all-season quick bread or muffins    basic r,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+all-you-can-eat coleslaw,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+allethea walls brown sugar-banana pound cake,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+allethea walls copper pennies pickled carro,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+alligator  andouille sauce piquante,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,1,0,0
+alligator eggs,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+alligator grand chenier,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+alligator meatballs,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+alligator sauce piquant,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,1,0,0,0
+alligator sausage  crawfish casserole,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0
+allo bhoji,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+almas recipe for possum,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+almond  bark  candy,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+almond  falafel,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+almond  rice flour bread poppy seeds,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+almond apple wheat bread stuffing,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+almond biscotti,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+almond brittle,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+almond butter bread,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+almond butter christmas,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+almond butter cookies,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0
+almond butter crunch,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+almond butter spread,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+almond buttercrunch candy,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+almond cheese horseshoe,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+almond chicken,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+almond cookie shells,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+almond cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+almond cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+almond cooler,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+almond cream filling,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+almond creme,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+almond crescents,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+almond crisps,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+almond crumb chicken,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+almond deviled eggs,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+almond dream,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+almond flavored tequila liqueur,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+almond fried ice cream,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+almond fried ice cream,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+almond gateau,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+almond joy cake,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+almond joy cookies,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+almond krumkakes,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+almond legend cake,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+almond liqueur,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+almond macaroon cherry pie,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+almond marzipan cream frangipane,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+almond meringues,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+almond milk non-dairy!,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+almond mushroom pate,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0
+almond nutmeg sticky rolls,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+almond paste sugar cookies,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+almond pinecones,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+almond poppy seed muffins,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0
+almond pound cake,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+almond praline cheesecake,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+almond pumpkin pie,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+almond rice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+almond rice muffins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+almond ricotta custard,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+almond roca cookies,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+almond shortbread biscuitsscottish,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+almond shorts,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+almond snaps,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+almond spice cookies,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0
+almond streusel bundt cake  coffee glaze,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+almond syrup,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+almond tart lemon curd,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+cabbage cooked bean curd,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1,1
+cantonese barbecue pork,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,1
+cantonese hotpot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1
+cantonese roast duck,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+caramel fried apples or bananas,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+onion cakes,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1
+ono chicken wings,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,1,0,1
+orange beef,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1
+orange beef green peppers,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,1
+orange crispy beef,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0,1,0,1
+orange ginger chicken,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1
+orange hot  sweet mustard,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+orange roughy oriental,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1
+oriental bean salad,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,1
+kangaroo strips bok choy  chilli blac,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,1
+kazakh lamb dumplings,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1
+keefer court sticky rice dumplings,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,1,0,0,0,1
+kun pao shrimp,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,1,0,1
+kung pao,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0,0,1
+kung pao chi chicken chilies  nuts,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0,1,0,1
+kung pao chicken,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,1
+kung pao chicken,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,1,0,1
+caring for  storing the wok,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+carol potters noodles peanut sauce,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,1,0,1
+cashew chicken,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1
+cashew chicken,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1
+cashew nut chicken yiu gwoh gai,1,0,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,1,1,0,0,1
+cashew nut prawns yiu gwoh ha,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1
+cha pao tsu,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1
+cha siu bow,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+oriental cabbage salad  mrs h,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1
+oriental chicken,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1
+oriental chicken,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1
+oriental chicken stir-fry,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1
+oriental dressing,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1
+oriental honey-glazed chicken,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+oriental hot wings,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+oriental meatballs,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0,1
+oriental noodles chili  cashews,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1
+oriental noodles vegetables,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,1
+oriental plum sauce marinade,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+oriental rice salad,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,1,1,1,0,0,1
+oriental spice for stir-fry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+oriental turkey salad,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,1
+oriental-style sea scallops,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,1,0,1
+oyster beef,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,1
+pa-pao-fan eight treasure rice pudding,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+pagoda fried rice,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,1
+pan stickers minced beef,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,1
+paper-wrapped chicken,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,1,0,1
+chestnuts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+chicken  broccoli,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,1,0,1
+chicken  cashews,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,1
+chicken  chestnuts,1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1
+chicken  lotus seed soup,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,1
+chicken  pea pods,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,1,0,1
+chicken  rice in a sandy clay plot,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,1,1,0,1
+pasta szechwan peanut dressing,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,1
+peanut chicken,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1
+chicken almond ding,0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1,1,1,0,1
+chicken chop suey,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,1
+chicken chop suey,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,1
+chicken chow mein,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,1
+chicken chow mein hom,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1,0,1
+chicken chunks peanuts in spicy sauce k,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+chicken egg rolls,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+chicken in lemon-plum sauce,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+chicken in plum sauce mwei jiong gai cant,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,0,1
+chicken salads imperial,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0,0,1
+chicken stir-fry spaghetti,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,1,0,1
+chicken szechuan-style sesame paste,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+chicken walnut,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,0,0,1
+chicken wing drumsticks,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+chicken asparagus lee sun gai kau,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,1
+chicken cashews,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+peanut sauce,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1
+peanut sauce,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1
+peking duck,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1
+peking duck,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1
+peking style noodles bean sauce  mixe,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,1
+pepper onion beef,1,0,1,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1
+phoenix  dragon,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1,1,0,1,0,1
+chicken ginger sauce,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,1
+chicken green  red pepper,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,1
+chicken peanuts,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,0,1
+chicken plum sauce,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+chicken-bok choy stir-fry,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1
+chili shrimp basil,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1
+china moon pickled ginger,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,1
+china moon ten spice honey dip,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+chinese  beef  lo-mein,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1
+chinese almond cookies,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+chinese barbecue pork char siew,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,1
+chinese barbecue sauce,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,1
+chinese barbecued baby back ribs,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1
+chinese barbecued spareribs,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1
+chinese bbq pork,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,1,0,1
+chinese beef stew,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1
+chinese brine pickles,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1
+chinese cashew chicken,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,1,0,0,1
+chinese chews,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+chinese chicken cooked rice,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,0,1
+chinese chicken salad,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1
+chinese chicken salad weight watchers magazi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1
+chinese chicken salad dressing i,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,1,0,1
+chinese chicken salad dressing iii,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,0,0,1
+chinese chicken wings,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,1
+chinese chicken rice,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,1,1,0,0,1
+chinese coleslaw a la poggi,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,1
+chinese crab  corn soup,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1
+chinese duck sauce,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+chinese egg rolls,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,1
+chinese five spice powder-martha stewart livi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+chinese fortune cookies iii,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1
+chinese fruit compote,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+chinese hot  sour soup,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,1,1
+chinese imperials sweet  sour sauce,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1
+chinese lemon chicken,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0,1
+chinese minimal fish soup,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1
+chinese mixed vegetables,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,1,1,0,1
+chinese mustard,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+chinese new year noodles,1,0,1,0,0,0,1,1,0,0,1,1,0,1,0,1,0,1,1,1,0,1
+chinese pancakes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+chinese pepper steak,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,1
+chinese pepper steak,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,1
+chinese pepper steak coke,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,1,0,1
+chinese pigs tail  peanut soup,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1
+chinese pineapple chicken  bow luo gai,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,1
+chinese popcorn shrimp sweet  pungent shrim,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,1
+chinese pork  peppers,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+chinese pork roast,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1
+chinese risotto shiitake mushrooms,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,1,1,0,1
+chinese salt  pepper,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+chinese shrimp,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1
+chinese spaghetti,1,0,0,1,0,0,0,0,0,1,0,1,0,1,1,1,1,1,0,0,0,1
+chinese squid balls,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1
+chinese steamed fish,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1
+chinese steamed pork buns,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1,0,1,0,1
+chinese stuffed mushrooms,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,1,0,0,1
+chinese style beef  vegetable wrap-ups,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1
+chinese style mushroom filled salmon fil,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,0,1
+chinese style sea scallops,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,1,0,1
+chinese tuna steaks on the grill,0,0,1,0,1,0,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,1
+chinese vegetable soup,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,1
+chinese-ginger-meatball  watercress soup,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1
+chinese-style beef,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1
+chinese asparagus black bean beef,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+chinese basic won ton,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,1
+chinese beef green pepper lot tzu ngow,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,1,0,1
+chinese cashew nut prawns yiu gwoh ha,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1
+chinese chicken chunks peanuts in spicy,1,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1
+chinese chicken in plum sauce mwei jiong ga,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,0,1
+chinese chinese barbaque pork char siew,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,1
+chinese cold shredded vegetables chicke,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1
+chinese crab meat lions head shanghai,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1
+chinese hot  sour soup tofu,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1,1
+chinese hot  spicy chicken ma la tze gee,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,1
+chinese noodles  gravy yee mein,1,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,0,0,1
+chinese pork in plum sauce mwei jiong yoke,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,0,1
+chinese sauce looo basic sauce,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1
+chinese sesame chicken,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1
+chinese spicy chicken le tze gee shangtu,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1
+chinese spicy cold noodles chicken,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1
+chinese steamed pork dumplings shiu mai,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,1
+chinese steamed prawns black beans see,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,1
+chinese szechwan noodles green onions,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,1
+chinese won ton in oyster sauce ho yau gon,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1
+pickler pigs ears chinese style,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,1,0,1
+pineapple chicken bow luo gai,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,1
+piri-piri chinese hot sauce,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1
+plum delicious pork cutlets,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1
+plum-orange glazed chicken,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1
+poor mans soup,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1
+pork  chicken wing adobo spinach,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,1,0,1
+pork balls gee yok beng,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,1
+pork hash,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,1
+pork in plum sauce mwei jiong yoke canton,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,0,1
+pork spareribs in black bean sauce/see jup pa,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,1
+pork green beans  mushrooms,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,1
+pot sticker dipping sauce,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,1,0,1
+pot stickers huo tip,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,1
+pot stickers filling,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,1
+chow fan,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,1,1,0,1
+chow mein two sides brown noodles,1,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,1,1,1,0,0,1
+citrus salad raspberry vinaigrette,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1
+classic chinese pepper steak,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1
+clear fish soup,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+potstickers part of,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+prawn kabobs peanut sauce,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,1
+preserved duck eggs thousand year old eggs,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+coconut shrimp,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+coconut shrimp,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+cold cucumbers garlic leng qing gua,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1
+cold lo mein noodles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1
+cold noodles in spicy peanut sauce,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,1,0,1
+cold sichuan noodles,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1
+cold white-cut pork slices garlic sesame,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,1,1,0,1,0,1
+congee jook,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,1
+cooking rice on the stove,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+quick oriental chicken  cashews,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+quick-fried beef oyster sauce,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,1
+raw fish salad,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1
+crab casserole in a clay pot,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,1
+crab in ginger sauce,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,1
+crab spring rolls cooking light,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,1
+crackling rice vegetable soup,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,1,1,1,1,0,1
+real ginger beef,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,1
+red cooked beef gravy noodles,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0,1
+red cooked eggs,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+red cooked tangerine chicken,0,1,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,1
+red-cooked eggs,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+rice  beans,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+rice porridge  corn yumi zhou,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+crisp chinese pork,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1
+crisp roasted pigs head,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+crispy chicken lemon sauce,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+crispy meat  seafood roll,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,1,1,0,0,1
+crispy meat pies,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,1,0,0,0,1
+crispy walnuts,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+crossroads curry powder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+roast lung kong chicken,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+roast pork char shu,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,0,1,0,1
+roasted spare ribs pei quot,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1
+romertopfs beggars chicken,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+anise molasses brisket braised in a wok,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,1,0,1
+crustacean dip,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+curried frogs legs,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,1
+deep fried prawns batter jow ha,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+sai wo duck,1,0,0,0,1,0,0,0,0,1,1,1,0,1,1,1,0,1,1,0,0,1
+salmon in pesto sauce,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0,1,1,1,0,1,0,1
+salt baked chicken,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,0,1
+salt-smothered chicken,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1
+salted taro balls,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1
+san francisco chops,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1
+kung pao pork,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,0,0,1
+kung pao stir-fry,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+lamb shreds cellophane noodles,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1
+lamb soup pot,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,1
+lemon chicken,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+lemon chicken,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+lemon chicken,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+lemon chicken chin,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1
+lemon lime  orange chicken,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1
+deep-fried bean curd stir-fried mushroom,1,0,0,0,1,0,1,1,0,0,0,1,0,1,0,1,0,1,1,0,0,1
+delicious chinese cabbage,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1
+dim sum steamed chinese appetizers,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1
+dragon lady salad,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1
+drums of heaven,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1
+drunken fish,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+dry fried prawns in the shell,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,1,0,1
+sauteed chicken wontons,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,1
+sauteed snow peas,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1
+savory chicken  rice in a lotus leaf chin,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1
+savory egg custard clams  shrimp,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1,0,1,0,1
+savory seasonings,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+scallion cakes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+scallion cakes,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+scallion pancakes,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+scallion pancakes,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+scallop salad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1
+scallops in szechwan spicy sauce,1,0,1,0,0,0,0,1,0,0,0,1,0,1,0,1,1,1,0,1,0,1
+scotch eggs chinese style,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+seasoned vegetarian broth,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,1,0,0,1
+see you gai red cooked chicken,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1
+dry sauteed green beans,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1
+duck sauce chinese plum sauce,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,1,0,1
+duck plum sauce,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1
+easy cheese  shrimp gyozas east/west,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1
+easy sweet  sour pork,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+easy sweet-n-sour pork chops,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+egg drop soup,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+egg drop soup lee,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+egg foo yong master recipe,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,1
+egg foo yung foo yung don,1,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,1,1,0,0,1
+egg roll skins,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+egg rolls,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,1,0,0,1
+egg rolls,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,1,0,0,1
+egg rolls for a crowd,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1
+eggroll filling,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1
+sesame cheese crackers,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1
+sesame chicken,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1
+sesame chicken,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1
+sesame chicken thighs,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1
+sesame noodles,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,0,1
+sesame noodles,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,0,1
+sesame pork tidbits sweet  sour sauce,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+sesame prawn triangles,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1
+sesame sea scallops,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1
+sesame shrimp toast,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+seven flavor chicken,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,1
+shanghai fish soup,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1,1,0,1,1
+shen-hsien-tang soup for the gods,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,1
+shih chin tan pai assorted meat in egg pie,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1
+shredded chicken sesame,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+shrimp cantonese aka shrimp in lobster sauce,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,1
+shrimp dumplings,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,0,1
+shrimp fried rice hom,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1
+shrimp in chinese lobster sauce,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,1,1,0,1,0,1
+shrimp in red sauce,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,1
+shrimp sauce mixed vegetables  shredded ch,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,1
+shrimp toast,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1
+shrimp chili  garlic,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,1
+shrimp lobster sauce,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,1,0,1,0,1
+sichuan cashew chicken,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,1,0,1,0,1
+sichuan crispy skin duck,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1
+sichuan peanut sauce noodles,0,1,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,1
+sichuan style bean curd,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+silver thread stirred eggs,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1,1,0,1
+elegant asparagus beef roll teriyaki sau,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,1
+empress spinach salad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1
+exotic chinese fruit bowl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+far eastern rice loaf,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,1,0,1
+singapore fried noodles,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1
+sizzling sweet  sour seafood,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,1,0,1
+sliced pork garlic  chili sauce,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1
+sliced pork wood ear fungus,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,1,1,0,1,0,1
+slow simmered pork roast,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,0,1
+small shanghai-style sweet  sour ribs,1,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,1
+snow white chicken,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,1,0,0,1
+soup noodles chicken,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,1,1,0,0,0,1
+fiery pork  winter bamboo shoots over snow,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+fish slices peking style,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,1,1,0,1
+five spice baked chicken,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1
+five spice powder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+five-spice tofu,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+foo yung hai,0,0,1,1,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,1
+four kinds of steamed vegetables,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1
+fragrant coconut rice,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1
+sour soup rice noodles,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,0,0,1
+soy sesame chicken oriental vegetables,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,1,0,1
+special egg foo yung,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+fresh lotus root salad,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1
+fried old eggs,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+fried chicken slices lemon sauce,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1
+fried eggs shanghai-style,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1
+fried garlic chicken balls,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1
+fried rice prodigy,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1
+fried walnuts,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+fried won tons,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1
+spiced cucumber salad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1
+spiced shrimp laht ha,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1
+spicy bean curd,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,1,1
+spicy chicken,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1
+spicy chinese peanut butter sauce,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1
+spicy clams in black bean sauce,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+spicy dumplings sesame sauce  hot oil,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,1
+spicy glazed oriental wings,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,1
+spicy pork strips,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1,0,1
+spicy pork tenderloin leeks  fennel,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+spicy sichuan peanut sauce,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,1,0,1
+spicy szechuan tofu,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,1,1
+spicy szechwan tofu,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,1,1
+spring roll skins,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+spring rolls chinese,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,1,0,1
+fruited pork,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1
+fun gwau steamed translucent dumplings,1,0,1,0,0,0,0,1,0,0,1,1,0,1,0,0,1,1,1,0,0,1
+garlic  ginger chicken baked in a clay pot,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1,0,1
+garlic chicken lo mein,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1
+garlic skewered shrimp,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1
+general chuas chicken,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1,0,1,0,1
+general taos chicken piment rouge,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1
+general tsos chicken,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,1,0,1
+general tsos chicken,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,1
+general tsos chicken,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,1
+general tsos chicken,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1
+general tsos chicken marius kirschner,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,1,0,1
+general tsos chicken not fried,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,1,0,1
+general tsos chicken hom,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,0,1
+general tsos chicken from siam res in colum,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,1,0,1
+general tsos chicken iii,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,0,1,0,1
+general tsos chicken peng teng,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+general tsos chix,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,1,0,1
+squid sichuan pepper corn sauce,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+steak kew canton,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1
+steamed barbecued pork buns,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1
+steamed breast of chicken black mushroom,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,1,1,0,1
+steamed bun dough,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+steamed butterfish in bean threads,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,1,0,0,1
+steamed chicken  ham broccoli spears,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,1
+steamed dumplings,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1
+steamed fish black beans,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+steamed fresh crab in curry sauce,1,0,1,0,1,0,0,0,0,0,1,1,0,1,0,1,0,1,0,1,0,1
+steamed glutinous rice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+steamed honey pears,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+steamed pork dumplings,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,1
+steamed pork preserved tianjin vegetable,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+steamed prawns black beans see jup jing,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,1
+steamed rice,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+steamed salmon black bean sauce,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1
+steamed spareribs black bean sauce dow,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1
+steamed translucent dumplings,1,0,1,0,0,0,0,1,0,0,1,1,0,1,0,0,1,1,1,0,0,1
+steamed whole fish,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1
+stir fried beef asparagus,0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,1,0,1,1,1,0,1
+stir fried chinese chicken cashews,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,0,0,1
+stir fried eggs  vegetables,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,1
+stir fried oysters garlic  green onio,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,1,0,1
+stir fried spinach fermented bean cheese,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1
+stir fried velvet spinach glass noodles,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+stir fry vegetables chicken or pork,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,1,0,1
+stir-fried broccoli  mushrooms,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,0,1
+stir-fried chicken chilies  peanuts,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,0,1
+stir-fried cucumber pork,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,1
+stir-fried hamsteak  asparagus,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,1
+stir-fried pineapple chicken,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+stir-fried pork broccoli,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+stir-fried shrimp green onions,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,1
+stir-fried tofu  bean sprouts,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1
+stir-fried zucchini carrots  leeks,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1
+straits chinese vegetables in tangy peanut sa,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+ginger beef bok choy,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1
+ginger melon pork,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1
+ginger sauce for steamed crab,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1
+ginger tea,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1
+ginger-fried beef,0,1,0,0,0,0,0,1,0,0,1,1,0,1,0,1,1,1,0,1,0,1
+gingered rice,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,1
+gingered sole fillets,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1
+glaceed sweet potatoes,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+glutinous rice dough,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0,1
+glutinous rice ham  dried shrimp,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1
+golden crown restaurant house special chow me,1,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,1,1,1,0,1
+golden tiger dumpling soup,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1,0,0,1
+gordons succulent soy sauce chicken from liv,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1
+gow gees,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,1,0,1
+stuffed bean curd peas  mushrooms,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,1,1,0,1
+sugared walnuts,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+sunflower chicken stir fry,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,1
+sweet  pungent lotus root pork,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1
+green beans garlic  red pepper,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,1
+green-and-gold relish,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+grilled peking duck,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1
+sweet  sour chicken,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,1
+sweet  sour chicken,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,1
+sweet  sour chicken breasts,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+sweet  sour dip,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1
+sweet  sour fish,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1
+sweet  sour fish fillets,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+sweet  sour meatballs,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,1
+sweet  sour pork,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1
+sweet  sour pork,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1
+sweet  sour pork goo lo yuke,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1
+sweet  sour sauce,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,0,1
+sweet  sour sauce supposedly pekingese st,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,1
+sweet  sour short ribs,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+sweet almond pudding dates,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1
+sweet fried rice almonds  cinnamon,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,0,0,0,1
+sweet-and-sour shrimp cooking light,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+sweet-sour meatballs oriental,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,1,0,1
+szechuan noodle salad in peanut sauce,1,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,1,0,1
+szechuan orange beef ala paul,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,1,0,1
+szechuan style cabbage relish,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+szechuan-style sliced fish,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1
+szechwan beef stew,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1
+szechwan cashew chicken,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1
+szechwan chicken  cashews,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,1
+szechwan crispy skin duck,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1
+szechwan eggplant  tofu,1,0,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,1,1,1
+szechwan noodle salad in peanut sauce,1,1,0,1,1,0,0,0,0,0,1,1,1,1,0,1,0,1,0,1,0,1
+szechwan noodles green onions,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,1
+szechwan peanut noodles,1,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,0,0,1
+szechwan spiced beef shred,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,1,0,1,0,1,0,1
+tangerine peel chicken,0,1,0,0,0,0,0,1,0,1,1,0,0,1,0,1,0,1,0,0,0,1
+grilled tofu sesame buckwheat noodles,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1
+guys chinese chicken,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1
+hah gavs,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+harbor village bbq pork,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,1,1,0,1,0,1
+hau toei chao fan,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,0,1
+tasty bean curd,0,0,0,1,0,0,1,0,0,0,1,1,0,1,1,1,0,1,1,1,0,1
+tea eggs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+tea smoked duck or cornish hens,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,0,0,1
+tender broccoli stems clams,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+teriyaki chicken wings,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1
+the vertically roasted chicken,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,1
+three flavors soup,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+arroz dulce,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,1
+asian marinated eggplant,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1
+asian pear  lyche strudel,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1
+asparagus  beef black beans,0,1,1,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,1,0,1
+asparagus  chicken in black bean sauce,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1
+asparagus salad pickled ginger,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1
+asparagus black bean beef,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+assorted vegetables in a clear sauce,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,1,0,1,1,0,0,1
+home style pork  cucumber soup,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,0,0,0,1
+home style steamed spareribs in black bean sa,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,1
+toffee apples  bananas,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+tofu triangles,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,1
+tomato beef fon kehr ngow yuk,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,1
+lemon sweet  sour sauce,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1
+lichees sorbet,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+lime-peanut-ginger chicken,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,1,1,1,0,1
+liver black beans  snow pea stir fry,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,0,1
+lo mein   shrimp-chicken-pork-beef,1,0,1,0,0,0,0,1,0,0,1,1,0,1,1,1,0,1,0,0,0,1
+lobster cantonese,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,1,0,1,0,1
