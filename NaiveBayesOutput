@@ -1,0 +1,30 @@
+read data
+created classifier
+Accuracy: 0
+Most Informative Features
+                                         present : not present in chinese food
+    contains(sesame_oil) = True                1 : 0      =    143.7 : 1.0
+       contains(chinese) = True                1 : 0      =    109.0 : 1.0
+    contains(peanut_oil) = True                1 : 0      =     64.6 : 1.0
+     contains(light_soy) = True                1 : 0      =     54.3 : 1.0
+      contains(dark_soy) = True                1 : 0      =     46.3 : 1.0
+contains(unsalted_butter) = True               0 : 1      =     43.7 : 1.0
+        contains(sesame) = True                1 : 0      =     34.3 : 1.0
+   contains(ginger_root) = True                1 : 0      =     26.6 : 1.0
+         contains(yeast) = True                0 : 1      =     25.7 : 1.0
+        contains(nutmeg) = True                0 : 1      =     23.0 : 1.0
+         contains(bread) = True                0 : 1      =     22.6 : 1.0
+       contains(steamed) = True                1 : 0      =     21.4 : 1.0
+           contains(msg) = True                1 : 0      =     21.0 : 1.0
+    contains(dry_sherry) = True                1 : 0      =     19.7 : 1.0
+    contains(sour_cream) = True                0 : 1      =     19.7 : 1.0
+   contains(corn_starch) = True                1 : 0      =     19.0 : 1.0
+      contains(softened) = True                0 : 1      =     18.7 : 1.0
+     contains(margarine) = True                0 : 1      =     18.7 : 1.0
+     contains(rice_wine) = True                1 : 0      =     17.7 : 1.0
+      contains(oriental) = True                1 : 0      =     17.4 : 1.0
+         contains(spicy) = True                1 : 0      =     17.4 : 1.0
+        contains(ginger) = True                1 : 0      =     17.1 : 1.0
+   contains(heavy_cream) = True                0 : 1      =     17.0 : 1.0
+ contains(fresh_parsley) = True                0 : 1      =     16.3 : 1.0
+      contains(bay_leaf) = True                0 : 1      =     16.3 : 1.0
